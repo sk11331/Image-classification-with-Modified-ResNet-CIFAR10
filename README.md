@@ -20,5 +20,5 @@ The model achieved a final test accuracy of 92.67%, with only 2,777,674 trainabl
 # 
 3 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian SunDeep Residual Learning for Image Recognition. arXiv:1512.03385
 # Team Members
-Shanmukeshwar Reddy Kanjula(sk11331)
-Nathaniel Sehati(nys2021)
+1). Shanmukeshwar Reddy Kanjula(sk11331)
+2). Nathaniel Sehati(nys2021)
